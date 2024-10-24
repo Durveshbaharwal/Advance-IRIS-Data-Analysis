@@ -64,8 +64,8 @@ data = load_iris()
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/iris-data-analysis.git
-cd iris-data-analysis
+git clone https://github.com/Durveshbaharwal/Advance-IRIS-Data-Analysis.git
+cd Advance-IRIS-Data-Analysis
 ```
 
 2. Run the Jupyter notebook (IRIS-Data-Analysis.ipynb) to execute the code and see the visualizations.
